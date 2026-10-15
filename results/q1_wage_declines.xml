@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wage_declines>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Peněžnictví a pojišťovnictví</industry_branch>
+    <average_wage>46316.5</average_wage>
+    <previous_wage>50800.5</previous_wage>
+    <wage_change_percent>-8.827</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</industry_branch>
+    <average_wage>40761.75</average_wage>
+    <previous_wage>42657.25</previous_wage>
+    <wage_change_percent>-4.444</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Těžba a dobývání</industry_branch>
+    <average_wage>31486.5</average_wage>
+    <previous_wage>32540.25</previous_wage>
+    <wage_change_percent>-3.238</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2009</year>
+    <industry_branch>Těžba a dobývání</industry_branch>
+    <average_wage>28360.5</average_wage>
+    <previous_wage>29272.5</previous_wage>
+    <wage_change_percent>-3.116</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Profesní, vědecké a technické činnosti</industry_branch>
+    <average_wage>31824.75</average_wage>
+    <previous_wage>32816.75</previous_wage>
+    <wage_change_percent>-3.023</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2011</year>
+    <industry_branch>Veřejná správa a obrana; povinné sociální zabezpečení</industry_branch>
+    <average_wage>26330.75</average_wage>
+    <previous_wage>26943.5</previous_wage>
+    <wage_change_percent>-2.274</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Stavebnictví</industry_branch>
+    <average_wage>22379.25</average_wage>
+    <previous_wage>22849.75</previous_wage>
+    <wage_change_percent>-2.059</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Činnosti v oblasti nemovitostí</industry_branch>
+    <average_wage>22151.5</average_wage>
+    <previous_wage>22552.5</previous_wage>
+    <wage_change_percent>-1.778</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2010</year>
+    <industry_branch>Vzdělávání</industry_branch>
+    <average_wage>23023</average_wage>
+    <previous_wage>23416</previous_wage>
+    <wage_change_percent>-1.678</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2015</year>
+    <industry_branch>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</industry_branch>
+    <average_wage>40452.5</average_wage>
+    <previous_wage>41093.75</previous_wage>
+    <wage_change_percent>-1.56</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Kulturní, zábavní a rekreační činnosti</industry_branch>
+    <average_wage>20510.5</average_wage>
+    <previous_wage>20808.25</previous_wage>
+    <wage_change_percent>-1.431</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Administrativní a podpůrné činnosti</industry_branch>
+    <average_wage>16829.25</average_wage>
+    <previous_wage>17040.5</previous_wage>
+    <wage_change_percent>-1.24</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2009</year>
+    <industry_branch>Ubytování, stravování a pohostinství</industry_branch>
+    <average_wage>12333.5</average_wage>
+    <previous_wage>12471.5</previous_wage>
+    <wage_change_percent>-1.107</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Informační a komunikační činnosti</industry_branch>
+    <average_wage>46155</average_wage>
+    <previous_wage>46641</previous_wage>
+    <wage_change_percent>-1.042</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Velkoobchod a maloobchod; opravy a údržba motorových vozidel</industry_branch>
+    <average_wage>23129.75</average_wage>
+    <previous_wage>23323.75</previous_wage>
+    <wage_change_percent>-0.832</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2009</year>
+    <industry_branch>Zemědělství, lesnictví, rybářství</industry_branch>
+    <average_wage>17644.5</average_wage>
+    <previous_wage>17763.75</previous_wage>
+    <wage_change_percent>-0.671</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2010</year>
+    <industry_branch>Profesní, vědecké a technické činnosti</industry_branch>
+    <average_wage>31601.75</average_wage>
+    <previous_wage>31791.25</previous_wage>
+    <wage_change_percent>-0.596</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2014</year>
+    <industry_branch>Těžba a dobývání</industry_branch>
+    <average_wage>31301.75</average_wage>
+    <previous_wage>31486.5</previous_wage>
+    <wage_change_percent>-0.587</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2016</year>
+    <industry_branch>Těžba a dobývání</industry_branch>
+    <average_wage>31626.25</average_wage>
+    <previous_wage>31808.5</previous_wage>
+    <wage_change_percent>-0.573</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2011</year>
+    <industry_branch>Ubytování, stravování a pohostinství</industry_branch>
+    <average_wage>13131.25</average_wage>
+    <previous_wage>13205.25</previous_wage>
+    <wage_change_percent>-0.56</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2013</year>
+    <industry_branch>Zásobování vodou; činnosti související s odpady a sanacemi</industry_branch>
+    <average_wage>23615.75</average_wage>
+    <previous_wage>23717.5</previous_wage>
+    <wage_change_percent>-0.429</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2009</year>
+    <industry_branch>Činnosti v oblasti nemovitostí</industry_branch>
+    <average_wage>20706</average_wage>
+    <previous_wage>20790.25</previous_wage>
+    <wage_change_percent>-0.405</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2010</year>
+    <industry_branch>Veřejná správa a obrana; povinné sociální zabezpečení</industry_branch>
+    <average_wage>26943.5</average_wage>
+    <previous_wage>27034.5</previous_wage>
+    <wage_change_percent>-0.337</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2011</year>
+    <industry_branch>Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu</industry_branch>
+    <average_wage>40201.5</average_wage>
+    <previous_wage>40295.75</previous_wage>
+    <wage_change_percent>-0.234</wage_change_percent>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <year>2011</year>
+    <industry_branch>Doprava a skladování</industry_branch>
+    <average_wage>23062</average_wage>
+    <previous_wage>23062.5</previous_wage>
+    <wage_change_percent>-0.002</wage_change_percent>
+  </DATA_RECORD>
+</wage_declines>

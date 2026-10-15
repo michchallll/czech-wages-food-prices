@@ -1,0 +1,14 @@
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local environment
+.env
+.env.*
+
+# Database exports
+*.sql.gz
+*.dump
+*.bak

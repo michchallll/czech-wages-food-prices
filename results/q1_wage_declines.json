@@ -1,0 +1,177 @@
+[
+	{
+		"year" : 2013,
+		"industry_branch" : "Peněžnictví a pojišťovnictví",
+		"average_wage" : 46316.50,
+		"previous_wage" : 50800.50,
+		"wage_change_percent" : -8.827
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",
+		"average_wage" : 40761.75,
+		"previous_wage" : 42657.25,
+		"wage_change_percent" : -4.444
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Těžba a dobývání",
+		"average_wage" : 31486.50,
+		"previous_wage" : 32540.25,
+		"wage_change_percent" : -3.238
+	},
+	{
+		"year" : 2009,
+		"industry_branch" : "Těžba a dobývání",
+		"average_wage" : 28360.50,
+		"previous_wage" : 29272.50,
+		"wage_change_percent" : -3.116
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Profesní, vědecké a technické činnosti",
+		"average_wage" : 31824.75,
+		"previous_wage" : 32816.75,
+		"wage_change_percent" : -3.023
+	},
+	{
+		"year" : 2011,
+		"industry_branch" : "Veřejná správa a obrana; povinné sociální zabezpečení",
+		"average_wage" : 26330.75,
+		"previous_wage" : 26943.50,
+		"wage_change_percent" : -2.274
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Stavebnictví",
+		"average_wage" : 22379.25,
+		"previous_wage" : 22849.75,
+		"wage_change_percent" : -2.059
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Činnosti v oblasti nemovitostí",
+		"average_wage" : 22151.50,
+		"previous_wage" : 22552.50,
+		"wage_change_percent" : -1.778
+	},
+	{
+		"year" : 2010,
+		"industry_branch" : "Vzdělávání",
+		"average_wage" : 23023.00,
+		"previous_wage" : 23416.00,
+		"wage_change_percent" : -1.678
+	},
+	{
+		"year" : 2015,
+		"industry_branch" : "Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",
+		"average_wage" : 40452.50,
+		"previous_wage" : 41093.75,
+		"wage_change_percent" : -1.560
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Kulturní, zábavní a rekreační činnosti",
+		"average_wage" : 20510.50,
+		"previous_wage" : 20808.25,
+		"wage_change_percent" : -1.431
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Administrativní a podpůrné činnosti",
+		"average_wage" : 16829.25,
+		"previous_wage" : 17040.50,
+		"wage_change_percent" : -1.240
+	},
+	{
+		"year" : 2009,
+		"industry_branch" : "Ubytování, stravování a pohostinství",
+		"average_wage" : 12333.50,
+		"previous_wage" : 12471.50,
+		"wage_change_percent" : -1.107
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Informační a komunikační činnosti",
+		"average_wage" : 46155.00,
+		"previous_wage" : 46641.00,
+		"wage_change_percent" : -1.042
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Velkoobchod a maloobchod; opravy a údržba motorových vozidel",
+		"average_wage" : 23129.75,
+		"previous_wage" : 23323.75,
+		"wage_change_percent" : -0.832
+	},
+	{
+		"year" : 2009,
+		"industry_branch" : "Zemědělství, lesnictví, rybářství",
+		"average_wage" : 17644.50,
+		"previous_wage" : 17763.75,
+		"wage_change_percent" : -0.671
+	},
+	{
+		"year" : 2010,
+		"industry_branch" : "Profesní, vědecké a technické činnosti",
+		"average_wage" : 31601.75,
+		"previous_wage" : 31791.25,
+		"wage_change_percent" : -0.596
+	},
+	{
+		"year" : 2014,
+		"industry_branch" : "Těžba a dobývání",
+		"average_wage" : 31301.75,
+		"previous_wage" : 31486.50,
+		"wage_change_percent" : -0.587
+	},
+	{
+		"year" : 2016,
+		"industry_branch" : "Těžba a dobývání",
+		"average_wage" : 31626.25,
+		"previous_wage" : 31808.50,
+		"wage_change_percent" : -0.573
+	},
+	{
+		"year" : 2011,
+		"industry_branch" : "Ubytování, stravování a pohostinství",
+		"average_wage" : 13131.25,
+		"previous_wage" : 13205.25,
+		"wage_change_percent" : -0.560
+	},
+	{
+		"year" : 2013,
+		"industry_branch" : "Zásobování vodou; činnosti související s odpady a sanacemi",
+		"average_wage" : 23615.75,
+		"previous_wage" : 23717.50,
+		"wage_change_percent" : -0.429
+	},
+	{
+		"year" : 2009,
+		"industry_branch" : "Činnosti v oblasti nemovitostí",
+		"average_wage" : 20706.00,
+		"previous_wage" : 20790.25,
+		"wage_change_percent" : -0.405
+	},
+	{
+		"year" : 2010,
+		"industry_branch" : "Veřejná správa a obrana; povinné sociální zabezpečení",
+		"average_wage" : 26943.50,
+		"previous_wage" : 27034.50,
+		"wage_change_percent" : -0.337
+	},
+	{
+		"year" : 2011,
+		"industry_branch" : "Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu",
+		"average_wage" : 40201.50,
+		"previous_wage" : 40295.75,
+		"wage_change_percent" : -0.234
+	},
+	{
+		"year" : 2011,
+		"industry_branch" : "Doprava a skladování",
+		"average_wage" : 23062.00,
+		"previous_wage" : 23062.50,
+		"wage_change_percent" : -0.002
+	}
+]
